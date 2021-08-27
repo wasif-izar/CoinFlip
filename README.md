@@ -1,10 +1,10 @@
 # Coin Flip App
  Interesting coin flip application
- 
- We can click flip to randomly show heads or tails
- We can also simulate how many number of times we wanna simulate
- The app shows statistics about our flip history
- lastly we can reset
+ <br/>
+ We can click flip to randomly show heads or tails<br/>
+ We can also simulate how many number of times we wanna simulate<br/>
+ The app shows statistics about our flip history<br/>
+ lastly we can reset<br/>
  
  <p align="center">
   <img src="https://user-images.githubusercontent.com/81978998/131150716-eb258b2e-671f-4748-b55f-484b88a93106.png" width="240">
